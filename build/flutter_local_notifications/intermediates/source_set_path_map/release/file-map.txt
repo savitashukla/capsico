@@ -1,0 +1,13 @@
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-java-1.0.0-beta04-0 C:\Users\mukes\.gradle\caches\transforms-3\4af757654880d7ea93f7e9c21fe34e3d\transformed\jetified-window-java-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-1.0.0-beta04-1 C:\Users\mukes\.gradle\caches\transforms-3\a832e78e81a0d92adb275e904f501400\transformed\jetified-window-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-annotation-experimental-1.1.0-2 C:\Users\mukes\.gradle\caches\transforms-3\c7f60ed0ba8e9ebee7f7d72dc2a32d4c\transformed\jetified-annotation-experimental-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-3 C:\Users\mukes\.gradle\caches\transforms-3\e3b7143f30cfc0ad61fd19cb1362f8a4\transformed\media-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-4 C:\Users\mukes\.gradle\caches\transforms-3\f00b713a8d9672d5d9f45524f27e2f7f\transformed\core-1.6.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-main-5 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-12.0.4\android\src\main\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-release-6 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-12.0.4\android\src\release\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-pngs-7 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\generated\res\pngs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-resValues-8 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\generated\res\resValues\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-rs-9 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\generated\res\rs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-10 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-11 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-12 D:\mukeshapp\apps\capsico\build\flutter_local_notifications\intermediates\merged_res\release

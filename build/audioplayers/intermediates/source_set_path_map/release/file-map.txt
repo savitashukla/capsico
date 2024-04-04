@@ -1,0 +1,13 @@
+xyz.luan.audioplayers-jetified-window-java-1.0.0-beta04-0 C:\Users\mukes\.gradle\caches\transforms-3\4af757654880d7ea93f7e9c21fe34e3d\transformed\jetified-window-java-1.0.0-beta04\res
+xyz.luan.audioplayers-jetified-window-1.0.0-beta04-1 C:\Users\mukes\.gradle\caches\transforms-3\a832e78e81a0d92adb275e904f501400\transformed\jetified-window-1.0.0-beta04\res
+xyz.luan.audioplayers-jetified-annotation-experimental-1.1.0-2 C:\Users\mukes\.gradle\caches\transforms-3\c7f60ed0ba8e9ebee7f7d72dc2a32d4c\transformed\jetified-annotation-experimental-1.1.0\res
+xyz.luan.audioplayers-core-1.6.0-3 C:\Users\mukes\.gradle\caches\transforms-3\f00b713a8d9672d5d9f45524f27e2f7f\transformed\core-1.6.0\res
+xyz.luan.audioplayers-jetified-core-ktx-1.6.0-4 C:\Users\mukes\.gradle\caches\transforms-3\f8613af12e9d0bf327327034b057f6af\transformed\jetified-core-ktx-1.6.0\res
+xyz.luan.audioplayers-main-5 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-0.20.1\android\src\main\res
+xyz.luan.audioplayers-release-6 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-0.20.1\android\src\release\res
+xyz.luan.audioplayers-pngs-7 D:\mukeshapp\apps\capsico\build\audioplayers\generated\res\pngs\release
+xyz.luan.audioplayers-resValues-8 D:\mukeshapp\apps\capsico\build\audioplayers\generated\res\resValues\release
+xyz.luan.audioplayers-rs-9 D:\mukeshapp\apps\capsico\build\audioplayers\generated\res\rs\release
+xyz.luan.audioplayers-mergeReleaseResources-10 D:\mukeshapp\apps\capsico\build\audioplayers\intermediates\incremental\release\mergeReleaseResources\merged.dir
+xyz.luan.audioplayers-mergeReleaseResources-11 D:\mukeshapp\apps\capsico\build\audioplayers\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+xyz.luan.audioplayers-merged_res-12 D:\mukeshapp\apps\capsico\build\audioplayers\intermediates\merged_res\release

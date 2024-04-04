@@ -1,0 +1,12 @@
+com.julienvignali.phone_number-jetified-window-java-1.0.0-beta04-0 C:\Users\mukes\.gradle\caches\transforms-3\4af757654880d7ea93f7e9c21fe34e3d\transformed\jetified-window-java-1.0.0-beta04\res
+com.julienvignali.phone_number-jetified-window-1.0.0-beta04-1 C:\Users\mukes\.gradle\caches\transforms-3\a832e78e81a0d92adb275e904f501400\transformed\jetified-window-1.0.0-beta04\res
+com.julienvignali.phone_number-jetified-annotation-experimental-1.1.0-2 C:\Users\mukes\.gradle\caches\transforms-3\c7f60ed0ba8e9ebee7f7d72dc2a32d4c\transformed\jetified-annotation-experimental-1.1.0\res
+com.julienvignali.phone_number-core-1.6.0-3 C:\Users\mukes\.gradle\caches\transforms-3\f00b713a8d9672d5d9f45524f27e2f7f\transformed\core-1.6.0\res
+com.julienvignali.phone_number-main-4 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\phone_number-1.0.0\android\src\main\res
+com.julienvignali.phone_number-release-5 C:\Users\mukes\AppData\Local\Pub\Cache\hosted\pub.dev\phone_number-1.0.0\android\src\release\res
+com.julienvignali.phone_number-pngs-6 D:\mukeshapp\apps\capsico\build\phone_number\generated\res\pngs\release
+com.julienvignali.phone_number-resValues-7 D:\mukeshapp\apps\capsico\build\phone_number\generated\res\resValues\release
+com.julienvignali.phone_number-rs-8 D:\mukeshapp\apps\capsico\build\phone_number\generated\res\rs\release
+com.julienvignali.phone_number-mergeReleaseResources-9 D:\mukeshapp\apps\capsico\build\phone_number\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.julienvignali.phone_number-mergeReleaseResources-10 D:\mukeshapp\apps\capsico\build\phone_number\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.julienvignali.phone_number-merged_res-11 D:\mukeshapp\apps\capsico\build\phone_number\intermediates\merged_res\release

@@ -1,0 +1,1155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+MERGED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:path_provider_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_secure_storage] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_facebook_auth] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_facebook_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:audioplayers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/audioplayers/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-50:12
+MERGED from [:connectivity] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:geocoding] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-37:12
+MERGED from [:flutter_keyboard_visibility] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_keyboard_visibility/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:google_maps_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:google_sign_in_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:webview_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_api_headers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:phone_number] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/phone_number/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-gamingservices:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/303764411a548bc90aacf6cc462282b2/transformed/jetified-facebook-gamingservices-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-share:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/c34fdc7314ea800bbaedb1e6ee1ebb43/transformed/jetified-facebook-share-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-applinks:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/b584be8aef075075d465846da2276980/transformed/jetified-facebook-applinks-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-messenger:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6215c486132f00c81d1a40143eee48d0/transformed/jetified-facebook-messenger-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-login:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/5adbbe8b30885d8b9e15cf4e97f4cb2a/transformed/jetified-facebook-login-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:9:1-44:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6efe69235fd36348babd0f1c438a3b0b/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/3c478e5b1e35ec453d3f337845f95b03/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/savitashukla/.gradle/caches/transforms-3/becbfaec33d521a38858eb44ecab28f1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/savitashukla/.gradle/caches/transforms-3/d3c14969242f19e157e05b5c58c3422f/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/savitashukla/.gradle/caches/transforms-3/3bb5d5f1359641f1a0c91be4d51a26c2/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] /Users/savitashukla/.gradle/caches/transforms-3/ae31ca1bc46a6d3c45b67bfc207214ed/transformed/jetified-play-services-fido-19.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/029b6f754c982c945d0459b34cb64c11/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e9fa9fd0a34f37672056b92c4f448e90/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/savitashukla/.gradle/caches/transforms-3/a0cde43bd8023f2856d897a6c72a1e1e/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/savitashukla/.gradle/caches/transforms-3/e19a85b935b708e13ad4cd0c3bdbbcfa/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d43f86b212921c0dfcf73f5c803d2ae4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2fa228f62c7b13b3598d6c12e56b1e04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/savitashukla/.gradle/caches/transforms-3/6671712d8150b51e04163a960006e3d4/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] /Users/savitashukla/.gradle/caches/transforms-3/7f6ebe791846305d3cfedea0e996cd66/transformed/jetified-activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:9:1-50:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/391641ba497a3d9a932ca6f9e0102f21/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/fb5a22910e12a697cfe219b2e16de175/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/70f9fae76041c7ce5842938eaa40a834/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6683858b3a7c5f3790ce5d8042cf3d7d/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/a84ea2e182763615f057b4aca4986625/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/4af757654880d7ea93f7e9c21fe34e3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2ac85336b5e651c53c399ecf99fe1918/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3b7143f30cfc0ad61fd19cb1362f8a4/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/savitashukla/.gradle/caches/transforms-3/2e58aff1a843adc111340ed65cb2e18a/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/b48185653fcaf45af90474a4bc37d85e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-bolts:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/cf43da183eca1ad6e0566a64199a3b4f/transformed/jetified-facebook-bolts-16.2.0/AndroidManifest.xml:9:1-19:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/8245d99fc62d6dc4c49ea404229a74b8/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.6.0] /Users/savitashukla/.gradle/caches/transforms-3/044b56e028f0fc2db1cc79933b133732/transformed/webkit-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/59a33afd794bacc82d48da12d6c80935/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/359688c5f0a182addc2b6219180ea3e2/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/93f7765da0e1a9ed83343313b1c9c8b9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/3e639a570b2e3948fdc0355a445dd0a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59cd646ca8922ff43d9a75268d5839f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/62dd9727e4ab38f8f9c679137f228c7b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/5eaa94bf42a1241b24090de9cf170ff3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/741437a5e0a53500740234b0affde8c4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d72eb95354f8492e5ef41a7e12d50058/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha04] /Users/savitashukla/.gradle/caches/transforms-3/da3f04bb949e8bcb34f6f1f804a366be/transformed/jetified-security-crypto-1.1.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/savitashukla/.gradle/caches/transforms-3/862f5dce417cf957cdb7c7e5ffb5a74b/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3bda86c26618fca700465c9b01cde1a/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/cd2350a5aa3bd1b372f13fd416d42401/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/68a932a7bf6ed914b3ec1ce4358d02b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/7e2f5a280ba4f3a54256dcf9c632a536/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/9eccd1208b6e1755dd7f079a3c1d5742/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/b30b6d8c5f34d286832e5aae50e0a8e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/a924d7f664cbf3fbdbe80283faf9ed87/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/ed13ba19625ea64dd40b7a221fe8bf38/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/69e39fa13952b52830fb3642b9244c58/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/savitashukla/.gradle/caches/transforms-3/4e8073d695b0567b2d2fd42d6708cde3/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/savitashukla/.gradle/caches/transforms-3/85dfdfa10c1a04a7f168918613b3e074/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/87580a9fe9eeb252cb2c10d7a0f6ae6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/088d0a1f94e4ae1abf9ee4fdfe8fa22e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/savitashukla/.gradle/caches/transforms-3/576af1b903436bfa721e9263190043c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/be8c81a8a2fd2a1b70bb141b8709366c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/03954e55d44234098e5ded98005613b5/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/savitashukla/.gradle/caches/transforms-3/33b111278ef0b5d4808a9d24f16b48c4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:1-102:12
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:connectivity] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:11:22-76
+queries
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:13:5-28:15
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:17:5-19:15
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:17:5-19:15
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:14:9-17:18
+action#android.intent.action.VIEW
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:15:21-62
+data
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:16:13-44
+	android:scheme
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:16:19-41
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:18:9-21:18
+action#android.intent.action.DIAL
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:19:21-62
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:22:9-25:18
+action#android.intent.action.SEND
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:23:21-62
+provider
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:26:9-89
+	android:authorities
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:26:19-86
+application
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:30:5-101:19
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-32:19
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-32:19
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-48:19
+MERGED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-35:19
+MERGED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-35:19
+MERGED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/303764411a548bc90aacf6cc462282b2/transformed/jetified-facebook-gamingservices-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/303764411a548bc90aacf6cc462282b2/transformed/jetified-facebook-gamingservices-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/c34fdc7314ea800bbaedb1e6ee1ebb43/transformed/jetified-facebook-share-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/c34fdc7314ea800bbaedb1e6ee1ebb43/transformed/jetified-facebook-share-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-applinks:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/b584be8aef075075d465846da2276980/transformed/jetified-facebook-applinks-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-applinks:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/b584be8aef075075d465846da2276980/transformed/jetified-facebook-applinks-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6215c486132f00c81d1a40143eee48d0/transformed/jetified-facebook-messenger-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6215c486132f00c81d1a40143eee48d0/transformed/jetified-facebook-messenger-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/5adbbe8b30885d8b9e15cf4e97f4cb2a/transformed/jetified-facebook-login-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/5adbbe8b30885d8b9e15cf4e97f4cb2a/transformed/jetified-facebook-login-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:21:5-42:19
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:21:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/savitashukla/.gradle/caches/transforms-3/becbfaec33d521a38858eb44ecab28f1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/savitashukla/.gradle/caches/transforms-3/becbfaec33d521a38858eb44ecab28f1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] /Users/savitashukla/.gradle/caches/transforms-3/ae31ca1bc46a6d3c45b67bfc207214ed/transformed/jetified-play-services-fido-19.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] /Users/savitashukla/.gradle/caches/transforms-3/ae31ca1bc46a6d3c45b67bfc207214ed/transformed/jetified-play-services-fido-19.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/029b6f754c982c945d0459b34cb64c11/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/029b6f754c982c945d0459b34cb64c11/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/savitashukla/.gradle/caches/transforms-3/a0cde43bd8023f2856d897a6c72a1e1e/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/savitashukla/.gradle/caches/transforms-3/a0cde43bd8023f2856d897a6c72a1e1e/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/savitashukla/.gradle/caches/transforms-3/e19a85b935b708e13ad4cd0c3bdbbcfa/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/savitashukla/.gradle/caches/transforms-3/e19a85b935b708e13ad4cd0c3bdbbcfa/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d43f86b212921c0dfcf73f5c803d2ae4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d43f86b212921c0dfcf73f5c803d2ae4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:18:5-48:19
+MERGED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:18:5-48:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.facebook.android:facebook-bolts:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/cf43da183eca1ad6e0566a64199a3b4f/transformed/jetified-facebook-bolts-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-bolts:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/cf43da183eca1ad6e0566a64199a3b4f/transformed/jetified-facebook-bolts-16.2.0/AndroidManifest.xml:16:5-17:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/68a932a7bf6ed914b3ec1ce4358d02b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/68a932a7bf6ed914b3ec1ce4358d02b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:32:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:16:18-44
+	android:label
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:34:9-32
+	android:icon
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:31:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:33:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:37:9-39:49
+	android:value
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:39:13-46
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:38:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:42:13-58
+meta-data#com.facebook.sdk.ClientToken
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:44:9-46:60
+	android:value
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:46:13-58
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:45:13-56
+activity#com.facebook.FacebookActivity
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:48:9-51:48
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:22:9-25:66
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:22:9-25:66
+	android:label
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:49:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:48:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:52:9-61:20
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:27:9-41:20
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:27:9-41:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:30:13-31
+	android:exported
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:53:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:55:13-60:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:57:17-76
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:57:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:58:27-75
+activity#com.dipanshutech.flutter_grocery.MainActivity
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:64:9-95:20
+	android:launchMode
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:69:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:67:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:71:13-55
+	android:exported
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:68:13-36
+	android:configChanges
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:66:13-163
+	android:theme
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:70:13-47
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:65:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:76:13-78:57
+	android:resource
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:78:17-54
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:77:17-72
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:84:13-86:66
+	android:resource
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:86:17-63
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:85:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:87:13-90:29
+action#android.intent.action.MAIN
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:88:17-69
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:88:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:89:17-77
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:89:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:91:13-94:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:92:17-69
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:92:25-66
+meta-data#flutterEmbedding
+ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:98:9-100:33
+	android:value
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:100:13-30
+	android:name
+		ADDED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml:99:13-44
+uses-sdk
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_secure_storage] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-9:53
+MERGED from [:flutter_secure_storage] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-9:53
+MERGED from [:flutter_facebook_auth] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_facebook_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_facebook_auth] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_facebook_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/audioplayers/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/audioplayers/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/connectivity/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_keyboard_visibility] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_keyboard_visibility/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_keyboard_visibility] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_keyboard_visibility/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_maps_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_api_headers] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/google_api_headers/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:phone_number] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/phone_number/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:phone_number] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/phone_number/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-android-sdk:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/98c81cb3e1758e0f40b4067d74b2e13b/transformed/jetified-facebook-android-sdk-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/303764411a548bc90aacf6cc462282b2/transformed/jetified-facebook-gamingservices-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/303764411a548bc90aacf6cc462282b2/transformed/jetified-facebook-gamingservices-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/c34fdc7314ea800bbaedb1e6ee1ebb43/transformed/jetified-facebook-share-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/c34fdc7314ea800bbaedb1e6ee1ebb43/transformed/jetified-facebook-share-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-applinks:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/b584be8aef075075d465846da2276980/transformed/jetified-facebook-applinks-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-applinks:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/b584be8aef075075d465846da2276980/transformed/jetified-facebook-applinks-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6215c486132f00c81d1a40143eee48d0/transformed/jetified-facebook-messenger-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6215c486132f00c81d1a40143eee48d0/transformed/jetified-facebook-messenger-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/5adbbe8b30885d8b9e15cf4e97f4cb2a/transformed/jetified-facebook-login-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/5adbbe8b30885d8b9e15cf4e97f4cb2a/transformed/jetified-facebook-login-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:13:5-15:41
+MERGED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6efe69235fd36348babd0f1c438a3b0b/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6efe69235fd36348babd0f1c438a3b0b/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/3c478e5b1e35ec453d3f337845f95b03/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/savitashukla/.gradle/caches/transforms-3/3c478e5b1e35ec453d3f337845f95b03/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/savitashukla/.gradle/caches/transforms-3/becbfaec33d521a38858eb44ecab28f1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/savitashukla/.gradle/caches/transforms-3/becbfaec33d521a38858eb44ecab28f1/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/savitashukla/.gradle/caches/transforms-3/d3c14969242f19e157e05b5c58c3422f/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/savitashukla/.gradle/caches/transforms-3/d3c14969242f19e157e05b5c58c3422f/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/savitashukla/.gradle/caches/transforms-3/3bb5d5f1359641f1a0c91be4d51a26c2/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/savitashukla/.gradle/caches/transforms-3/3bb5d5f1359641f1a0c91be4d51a26c2/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] /Users/savitashukla/.gradle/caches/transforms-3/ae31ca1bc46a6d3c45b67bfc207214ed/transformed/jetified-play-services-fido-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.1] /Users/savitashukla/.gradle/caches/transforms-3/ae31ca1bc46a6d3c45b67bfc207214ed/transformed/jetified-play-services-fido-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/029b6f754c982c945d0459b34cb64c11/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/029b6f754c982c945d0459b34cb64c11/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e9fa9fd0a34f37672056b92c4f448e90/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e9fa9fd0a34f37672056b92c4f448e90/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/savitashukla/.gradle/caches/transforms-3/a0cde43bd8023f2856d897a6c72a1e1e/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/savitashukla/.gradle/caches/transforms-3/a0cde43bd8023f2856d897a6c72a1e1e/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/savitashukla/.gradle/caches/transforms-3/e19a85b935b708e13ad4cd0c3bdbbcfa/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/savitashukla/.gradle/caches/transforms-3/e19a85b935b708e13ad4cd0c3bdbbcfa/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d43f86b212921c0dfcf73f5c803d2ae4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d43f86b212921c0dfcf73f5c803d2ae4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2fa228f62c7b13b3598d6c12e56b1e04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2fa228f62c7b13b3598d6c12e56b1e04/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/savitashukla/.gradle/caches/transforms-3/6671712d8150b51e04163a960006e3d4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/savitashukla/.gradle/caches/transforms-3/6671712d8150b51e04163a960006e3d4/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] /Users/savitashukla/.gradle/caches/transforms-3/7f6ebe791846305d3cfedea0e996cd66/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/savitashukla/.gradle/caches/transforms-3/7f6ebe791846305d3cfedea0e996cd66/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/391641ba497a3d9a932ca6f9e0102f21/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/391641ba497a3d9a932ca6f9e0102f21/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/fb5a22910e12a697cfe219b2e16de175/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/fb5a22910e12a697cfe219b2e16de175/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/70f9fae76041c7ce5842938eaa40a834/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/70f9fae76041c7ce5842938eaa40a834/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6683858b3a7c5f3790ce5d8042cf3d7d/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/6683858b3a7c5f3790ce5d8042cf3d7d/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/a84ea2e182763615f057b4aca4986625/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/a84ea2e182763615f057b4aca4986625/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/4af757654880d7ea93f7e9c21fe34e3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/4af757654880d7ea93f7e9c21fe34e3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2ac85336b5e651c53c399ecf99fe1918/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/2ac85336b5e651c53c399ecf99fe1918/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.media:media:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3b7143f30cfc0ad61fd19cb1362f8a4/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3b7143f30cfc0ad61fd19cb1362f8a4/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/savitashukla/.gradle/caches/transforms-3/2e58aff1a843adc111340ed65cb2e18a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/savitashukla/.gradle/caches/transforms-3/2e58aff1a843adc111340ed65cb2e18a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/b48185653fcaf45af90474a4bc37d85e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/b48185653fcaf45af90474a4bc37d85e/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.android:facebook-bolts:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/cf43da183eca1ad6e0566a64199a3b4f/transformed/jetified-facebook-bolts-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-bolts:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/cf43da183eca1ad6e0566a64199a3b4f/transformed/jetified-facebook-bolts-16.2.0/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/8245d99fc62d6dc4c49ea404229a74b8/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/8245d99fc62d6dc4c49ea404229a74b8/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.6.0] /Users/savitashukla/.gradle/caches/transforms-3/044b56e028f0fc2db1cc79933b133732/transformed/webkit-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.6.0] /Users/savitashukla/.gradle/caches/transforms-3/044b56e028f0fc2db1cc79933b133732/transformed/webkit-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/59a33afd794bacc82d48da12d6c80935/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/59a33afd794bacc82d48da12d6c80935/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/359688c5f0a182addc2b6219180ea3e2/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/359688c5f0a182addc2b6219180ea3e2/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/93f7765da0e1a9ed83343313b1c9c8b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/93f7765da0e1a9ed83343313b1c9c8b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/3e639a570b2e3948fdc0355a445dd0a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/3e639a570b2e3948fdc0355a445dd0a8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59cd646ca8922ff43d9a75268d5839f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59cd646ca8922ff43d9a75268d5839f1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/62dd9727e4ab38f8f9c679137f228c7b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/62dd9727e4ab38f8f9c679137f228c7b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/5eaa94bf42a1241b24090de9cf170ff3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/5eaa94bf42a1241b24090de9cf170ff3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/741437a5e0a53500740234b0affde8c4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/741437a5e0a53500740234b0affde8c4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d72eb95354f8492e5ef41a7e12d50058/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/d72eb95354f8492e5ef41a7e12d50058/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha04] /Users/savitashukla/.gradle/caches/transforms-3/da3f04bb949e8bcb34f6f1f804a366be/transformed/jetified-security-crypto-1.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha04] /Users/savitashukla/.gradle/caches/transforms-3/da3f04bb949e8bcb34f6f1f804a366be/transformed/jetified-security-crypto-1.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/savitashukla/.gradle/caches/transforms-3/862f5dce417cf957cdb7c7e5ffb5a74b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/savitashukla/.gradle/caches/transforms-3/862f5dce417cf957cdb7c7e5ffb5a74b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3bda86c26618fca700465c9b01cde1a/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e3bda86c26618fca700465c9b01cde1a/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/cd2350a5aa3bd1b372f13fd416d42401/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/cd2350a5aa3bd1b372f13fd416d42401/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/68a932a7bf6ed914b3ec1ce4358d02b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/68a932a7bf6ed914b3ec1ce4358d02b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/7e2f5a280ba4f3a54256dcf9c632a536/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/7e2f5a280ba4f3a54256dcf9c632a536/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/9eccd1208b6e1755dd7f079a3c1d5742/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/9eccd1208b6e1755dd7f079a3c1d5742/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/b30b6d8c5f34d286832e5aae50e0a8e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/b30b6d8c5f34d286832e5aae50e0a8e4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/a924d7f664cbf3fbdbe80283faf9ed87/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/a924d7f664cbf3fbdbe80283faf9ed87/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/ed13ba19625ea64dd40b7a221fe8bf38/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/ed13ba19625ea64dd40b7a221fe8bf38/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/69e39fa13952b52830fb3642b9244c58/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/savitashukla/.gradle/caches/transforms-3/69e39fa13952b52830fb3642b9244c58/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/savitashukla/.gradle/caches/transforms-3/4e8073d695b0567b2d2fd42d6708cde3/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/savitashukla/.gradle/caches/transforms-3/4e8073d695b0567b2d2fd42d6708cde3/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/savitashukla/.gradle/caches/transforms-3/85dfdfa10c1a04a7f168918613b3e074/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/savitashukla/.gradle/caches/transforms-3/85dfdfa10c1a04a7f168918613b3e074/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/87580a9fe9eeb252cb2c10d7a0f6ae6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/savitashukla/.gradle/caches/transforms-3/87580a9fe9eeb252cb2c10d7a0f6ae6f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/088d0a1f94e4ae1abf9ee4fdfe8fa22e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/savitashukla/.gradle/caches/transforms-3/088d0a1f94e4ae1abf9ee4fdfe8fa22e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/savitashukla/.gradle/caches/transforms-3/576af1b903436bfa721e9263190043c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/savitashukla/.gradle/caches/transforms-3/576af1b903436bfa721e9263190043c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/be8c81a8a2fd2a1b70bb141b8709366c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/be8c81a8a2fd2a1b70bb141b8709366c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/03954e55d44234098e5ded98005613b5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/savitashukla/.gradle/caches/transforms-3/03954e55d44234098e5ded98005613b5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/savitashukla/.gradle/caches/transforms-3/33b111278ef0b5d4808a9d24f16b48c4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/savitashukla/.gradle/caches/transforms-3/33b111278ef0b5d4808a9d24f16b48c4/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_secure_storage] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_secure_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-50
+	android:targetSdkVersion
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:25:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-41:19
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
+receiver#com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-91
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-31:20
+	android:exported
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-30:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-79
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/flutter_inappwebview/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-61
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-74
+	android:exported
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:68
+	android:resource
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-65
+	android:name
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-67
+receiver#dev.fluttercommunity.plus.share.SharePlusPendingIntent
+ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-82
+intent-filter#action:name:EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-33:29
+action#EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-65
+	android:name
+		ADDED from [:share_plus] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/share_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:32:25-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/savitashukla/Documents/Himanshu/capsico_sec/chec_capsico/capsico/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+package#com.facebook.katana
+ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:18:18-52
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:26:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:26:19-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:31:13-40:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.dipanshutech.flutter_grocery+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/4578c63482edbd8c83b252317c504d07/transformed/jetified-facebook-common-16.2.0/AndroidManifest.xml:31:13-40:29
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/59341a1e7a74deb8c81080101ee4ef59/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9cf5523f8e1bd0b7d02906df09cd192e/transformed/jetified-play-services-auth-20.4.1/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/savitashukla/.gradle/caches/transforms-3/dea2119e449191c4c94a73c172511a04/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/savitashukla/.gradle/caches/transforms-3/48caaaa314ee35a33d72e388045f23dd/transformed/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:56:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/e4c49d677feed6f6f32a9c1db8c88299/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/savitashukla/.gradle/caches/transforms-3/1f0e544f7ee00913fc7067df1060c380/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.2] /Users/savitashukla/.gradle/caches/transforms-3/4a6e5e53059d76cce187df80d334fd31/transformed/jetified-firebase-installations-17.1.2/AndroidManifest.xml:18:17-127
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/savitashukla/.gradle/caches/transforms-3/a4328100ef55465fdb20de1247b3d16c/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.0] /Users/savitashukla/.gradle/caches/transforms-3/07096b1dfdcb718a67f2dab06635c877/transformed/jetified-firebase-common-20.3.0/AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/savitashukla/.gradle/caches/transforms-3/2509ec39a53e1c1f088712200446cb1c/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:16:22-76
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:30:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:34:9-40:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:35:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:37:13-39:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:38:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:38:25-92
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:41:9-47:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:42:13-118
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:44:13-46:29
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:45:17-103
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.2.0] /Users/savitashukla/.gradle/caches/transforms-3/9ce0a2fe16b70ab6f67cc4c62757444f/transformed/jetified-facebook-core-16.2.0/AndroidManifest.xml:45:25-100
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/savitashukla/.gradle/caches/transforms-3/a832e78e81a0d92adb275e904f501400/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/savitashukla/.gradle/caches/transforms-3/e856da30397691db518e0ece8f76ffc7/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/savitashukla/.gradle/caches/transforms-3/6a0005c6a613eac3e1229c81050664a4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.dipanshutech.flutter_grocery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.dipanshutech.flutter_grocery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/savitashukla/.gradle/caches/transforms-3/11ea1b718a1d41f7d50aab48696877f0/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/savitashukla/.gradle/caches/transforms-3/9fdbc8a264ce380bff35d43f47d17e9a/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/aab22366b10a79569e470eba516d95e2/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/savitashukla/.gradle/caches/transforms-3/d4e27569159fd1e924fb964504236b74/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/savitashukla/.gradle/caches/transforms-3/c6322f0b2e9b375537405892785ac45a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107

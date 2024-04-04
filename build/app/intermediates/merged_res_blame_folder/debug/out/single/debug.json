@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/drawable_notification_icon.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/drawable-v21_launch_background.xml.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/raw_notification.mp3.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/raw/notification.mp3"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dipanshutech.flutter_grocery.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.dipanshutech.flutter_grocery.app-main-37:/mipmap-xxhdpi/ic_launcher_background.png"
+    }
+]
